@@ -1,4 +1,4 @@
-# Addon-Console-Delay
+# Addon: Console Delay Graphs
 
 ## What is the Console Delay Addon?
 
